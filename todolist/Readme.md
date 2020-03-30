@@ -13,17 +13,13 @@ In this code assignment, you are expected to develop a simple web based **TODO L
 - Backend must be developed using ASP.NET Core Web API and REST standards (You must use cross-platform .NET Core, not .NET Framework).
 - You can store application's data using a simple file (json, xml, etc.) or in-memory database.
 - You are not expected to follow a specific guideline for development of your backend code. However, writing clean code and using comment lines  will make it easier for us to understand your code. 
+- It is not necessary but you can add a Swagger endpoint for your REST services.
 
 ### Frontend
 
 - You are not expected to develop a complex and fully functional page. A simple and understandable page containing basic CRUD operations is sufficient.
 - You must show helpful information and error messages for every operation (e.g. "To-do created successfully", "Do you want to delete item", ...)
 - There is no technology restriction for the frontend. But, it would be nice to use client side frameworks such as Angular, React, Vuejs, etc..
-
-### Not necessary but nice to have requirements
-
-- A Swagger endpoint which defines your REST API and schema
-
 
 
 *Please add a Readme file to your code. This file must include information about building and running your code.*
