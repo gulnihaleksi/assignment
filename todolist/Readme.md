@@ -15,7 +15,7 @@ In this code assignment, you are expected to develop a simple web based **TODO L
 - You are not expected to follow a specific guideline for development of your backend code. However, writing clean code and using comment lines  will make it easier for us to understand your code. 
 - It is not necessary but you can add a Swagger endpoint for your REST services.
 - Please use nuget packages for your dependencies. Thus, we can build your code easily.
-- Once we press Run, your backend services must run without any error and extra installations.
+- Once we press Run, your backend services must run without any error and any need for extra installations.
 
 ### Frontend
 
