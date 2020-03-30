@@ -20,6 +20,12 @@ In this code assignment, you are expected to develop a simple web based **TODO L
 - You must show helpful information and error messages for every operation (e.g. "To-do created successfully", "Do you want to delete item", ...)
 - There is no technology restriction for the frontend. But, it would be nice to use client side frameworks such as Angular, React, Vuejs, etc..
 
+### Not necessary but nice to have requirements
+
+- A Swagger endpoint which defines your REST API and schema
+
+
 *Please add a Readme file to your code. This file must include information about building and running your code.*
+
 *You can send your application to mail@logo.com.tr as a zip file which contains your backend and frontend code with all dependencies.*
 
