@@ -25,6 +25,7 @@ In this code assignment, you are expected to develop a simple web based **TODO L
 - A Swagger endpoint which defines your REST API and schema
 
 
+
 *Please add a Readme file to your code. This file must include information about building and running your code.*
 
 *You can send your application to mail@logo.com.tr as a zip file which contains your backend and frontend code with all dependencies.*
