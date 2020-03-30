@@ -21,10 +21,12 @@ In this code assignment, you are expected to develop a simple web based **TODO L
 
 - You are not expected to develop a complex and fully functional page. A simple and understandable page containing basic CRUD operations is sufficient.
 - You must show helpful information and error messages for every operation (e.g. "To-do created successfully", "Do you want to delete item", ...)
-- There is no technology restriction for the frontend. But, it would be nice to use client side frameworks such as Angular, React, Vuejs, etc..
+- There is no technology restriction for the frontend. However it would be nice to use client side frameworks such as Angular, React, Vuejs, etc..
 - You can use npm to manage Javascript dependencies and to run your client application. If you use npm or any other alternative, please add extra information to your Readme file, so we can build and run your client application without any error.
 
 *Please add a Readme file to your code. This file must include information about building and running your code.*
 
-*You can send your application to mail@logo.com.tr as a zip file which contains your backend and frontend code with all dependencies.*
+*You need a github account because you will be asked to push your code a github repository. When you complete your assignment, you must send an email to mail@logo.com.tr address with your github account email. As response, you will get a github repository address, in which your account is assigned as a valid contributor. Then you can commit and push your code to this repository and send another email to mail@logo.com.tr address. 
+
+*For any question, please do not hesitate to contact us.
 
