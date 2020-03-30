@@ -26,7 +26,7 @@ In this code assignment, you are expected to develop a simple web based **TODO L
 
 *Please add a Readme file to your code. This file must include information about building and running your code.*
 
-*You need a github account because you will be asked to push your code a github repository. When you complete your assignment, you must send an email to mail@logo.com.tr address with your github account email. As response, you will get a github repository address, in which your account is assigned as a valid contributor. Then you can commit and push your code to this repository and send another email to mail@logo.com.tr address.* 
+*You need a github account because you will be asked to push your code a github repository. When you complete your assignment, you must send an email to fwteam@logo.com.tr address with your github account email. As response, you will get a github repository address, in which your account is assigned as a valid contributor. Then you can commit and push your code to this repository and send another email to fwteam@logo.com.tr address.* 
 
 *For any question, please do not hesitate to contact us.*
 
