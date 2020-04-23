@@ -1,0 +1,14 @@
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\bin\Release\netcoreapp2.1\LogoDotnetAssignment.Data.deps.json
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\bin\Release\netcoreapp2.1\LogoDotnetAssignment.Data.runtimeconfig.json
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\bin\Release\netcoreapp2.1\LogoDotnetAssignment.Data.runtimeconfig.dev.json
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\bin\Release\netcoreapp2.1\LogoDotnetAssignment.Data.dll
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\bin\Release\netcoreapp2.1\LogoDotnetAssignment.Data.pdb
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\bin\Release\netcoreapp2.1\LogoDotnetAssignment.Core.dll
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\bin\Release\netcoreapp2.1\LogoDotnetAssignment.Core.pdb
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\obj\Release\netcoreapp2.1\LogoDotnetAssignment.Data.csprojAssemblyReference.cache
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\obj\Release\netcoreapp2.1\LogoDotnetAssignment.Data.csproj.CoreCompileInputs.cache
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\obj\Release\netcoreapp2.1\LogoDotnetAssignment.Data.AssemblyInfoInputs.cache
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\obj\Release\netcoreapp2.1\LogoDotnetAssignment.Data.AssemblyInfo.cs
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\obj\Release\netcoreapp2.1\LogoDotnetAssignment.Data.csproj.CopyComplete
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\obj\Release\netcoreapp2.1\LogoDotnetAssignment.Data.dll
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\obj\Release\netcoreapp2.1\LogoDotnetAssignment.Data.pdb

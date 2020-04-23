@@ -1,0 +1,14 @@
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Service\bin\Release\netcoreapp2.1\LogoDotnetAssignment.Service.deps.json
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Service\bin\Release\netcoreapp2.1\LogoDotnetAssignment.Service.dll
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Service\bin\Release\netcoreapp2.1\LogoDotnetAssignment.Service.pdb
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Service\bin\Release\netcoreapp2.1\LogoDotnetAssignment.Core.dll
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Service\bin\Release\netcoreapp2.1\LogoDotnetAssignment.Data.dll
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Service\bin\Release\netcoreapp2.1\LogoDotnetAssignment.Data.pdb
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Service\bin\Release\netcoreapp2.1\LogoDotnetAssignment.Core.pdb
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Service\obj\Release\netcoreapp2.1\LogoDotnetAssignment.Service.csprojAssemblyReference.cache
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Service\obj\Release\netcoreapp2.1\LogoDotnetAssignment.Service.csproj.CoreCompileInputs.cache
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Service\obj\Release\netcoreapp2.1\LogoDotnetAssignment.Service.AssemblyInfoInputs.cache
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Service\obj\Release\netcoreapp2.1\LogoDotnetAssignment.Service.AssemblyInfo.cs
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Service\obj\Release\netcoreapp2.1\LogoDotnetAssignment.Service.csproj.CopyComplete
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Service\obj\Release\netcoreapp2.1\LogoDotnetAssignment.Service.dll
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Service\obj\Release\netcoreapp2.1\LogoDotnetAssignment.Service.pdb

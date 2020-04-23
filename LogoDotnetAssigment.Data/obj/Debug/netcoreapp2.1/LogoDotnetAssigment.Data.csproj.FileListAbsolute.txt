@@ -1,0 +1,8 @@
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\bin\Debug\netcoreapp2.1\LogoDotnetAssigment.Data.deps.json
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\bin\Debug\netcoreapp2.1\LogoDotnetAssigment.Data.dll
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\bin\Debug\netcoreapp2.1\LogoDotnetAssigment.Data.pdb
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\obj\Debug\netcoreapp2.1\LogoDotnetAssigment.Data.csproj.CoreCompileInputs.cache
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\obj\Debug\netcoreapp2.1\LogoDotnetAssigment.Data.AssemblyInfoInputs.cache
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\obj\Debug\netcoreapp2.1\LogoDotnetAssigment.Data.AssemblyInfo.cs
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\obj\Debug\netcoreapp2.1\LogoDotnetAssigment.Data.dll
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssigment.Data\obj\Debug\netcoreapp2.1\LogoDotnetAssigment.Data.pdb

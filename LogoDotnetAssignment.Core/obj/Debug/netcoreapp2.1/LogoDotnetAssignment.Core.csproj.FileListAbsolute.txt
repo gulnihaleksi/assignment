@@ -1,0 +1,9 @@
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Core\bin\Debug\netcoreapp2.1\LogoDotnetAssignment.Core.deps.json
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Core\bin\Debug\netcoreapp2.1\LogoDotnetAssignment.Core.dll
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Core\bin\Debug\netcoreapp2.1\LogoDotnetAssignment.Core.pdb
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Core\obj\Debug\netcoreapp2.1\LogoDotnetAssignment.Core.csproj.CoreCompileInputs.cache
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Core\obj\Debug\netcoreapp2.1\LogoDotnetAssignment.Core.AssemblyInfoInputs.cache
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Core\obj\Debug\netcoreapp2.1\LogoDotnetAssignment.Core.AssemblyInfo.cs
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Core\obj\Debug\netcoreapp2.1\LogoDotnetAssignment.Core.dll
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Core\obj\Debug\netcoreapp2.1\LogoDotnetAssignment.Core.pdb
+C:\Users\gulnihalc\source\repos\LogoDotnetAssignment\LogoDotnetAssignment.Core\obj\Debug\netcoreapp2.1\LogoDotnetAssignment.Core.csprojAssemblyReference.cache

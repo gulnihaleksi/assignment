@@ -1,0 +1,29 @@
+﻿@model VirtualMoneyDto
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Add Virtual Money</h2>
+<div class="row">
+
+	<div class="col-md-4">
+		<form asp-action="Create">
+			<div class="form-group">
+				<label asp-for="name">Virtual Money Name</label>
+				<input asp-for="name" class="form-control" />
+				<span asp-validation-for="name" class="text-danger"></span>
+				<label asp-for="symbol">Symbol</label>
+				<input asp-for="symbol" class="form-control" />
+				<label asp-for="slug">Slug</label>
+				<input asp-for="slug" class="form-control" />
+				<label asp-for="num_market_pairs">Num. Market Pairs</label>
+				<input asp-for="num_market_pairs" class="form-control" />
+			</div>
+			<div class="form-group">
+				<input type="submit" value="Add"  class="btn btn-primary"/>
+			</div>
+		</form>
+
+	</div>
+</div>
+

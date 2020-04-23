@@ -1,0 +1,38 @@
+﻿<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+@model IEnumerable<VirtualMoneyDto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div style="margin-bottom : 6px; margin-top : 6px">
+	<a class="w3-button w3-green" asp-action="Create">Add Virtual Money </a>
+</div>
+
+<table class="w3-table-all">
+	<thead>
+		<tr class="w3-blue">
+			<th>Name</th>
+			<th>Symbol</th>
+			<th>Slug</th>
+			<th>Num.Market Pairs</th>
+			<th>Operations</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+		<tr>
+			<td>@item.name</td>
+			<td>@item.symbol</td>
+			<td>@item.slug</td>
+			<td>@item.num_market_pairs</td>
+			<td>
+				<a class="w3-button w3-blue" asp-action="Update" asp-route-id="@item.id">Update</a>
+				<a class="w3-button w3-red" asp-action="Delete" asp-route-id="@item.id">Delete</a>
+			</td>
+		</tr>
+		}
+	</tbody>
+</table>
+
